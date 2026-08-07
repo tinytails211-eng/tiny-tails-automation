@@ -1,0 +1,15 @@
+{
+  "primary_provider": "flow",
+  "backup_provider": "higgsfield",
+  "providers": {
+    "flow": {
+      "enabled": true
+    },
+    "higgsfield": {
+      "enabled": true
+    },
+    "veo": {
+      "enabled": false
+    }
+  }
+}
